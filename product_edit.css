@@ -1,0 +1,366 @@
+header{
+    background-color: rgb(255, 255, 255);
+    height:80px;
+}
+#header-image{
+    height: 80px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.if{
+    float:right;
+    
+    font-size: 20px;
+    margin: 45px 300px 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#btn{
+    float:right;
+    margin: 30px 30px 0px;
+    
+}
+#b1{
+    height: 40px;
+    width: 80px;
+    padding: 10px;
+    background-color: rgb(156, 199, 87);
+    font-size: 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+}
+#b1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#b2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#b2{
+    height: 40px;
+    width: 80px;
+    padding: 10px;
+    background-color: rgb(91, 112, 139);
+    font-size: 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+}
+#sym{
+    float:right;
+    margin:30px 10px 0px;
+    font-size: 30px;
+    cursor: pointer;
+}
+#shop{
+    float:right;
+    margin:20px 5px 0px 0px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    min-height: 100vh;
+    
+}
+.intro{
+    
+    background-color: rgb(255, 255, 255);
+  
+   height: 500px;
+   margin-left:10px;
+    margin-right:10px;
+   margin-top: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.intro2{
+    background-color: rgb(98, 101, 136);
+    color: white;
+  
+    height: 500px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+   
+
+
+#hh{
+    float:left;
+    width:50%;
+}
+#hed{
+    text-align: center;
+    
+}
+#desc{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+.h{
+    top:30px;
+}
+hr{
+    color: darkslategray;
+    height: 1px;
+    background-color: darkslategray;
+}
+#safe{
+   padding-top: 50px;
+    padding-left: 10px;
+    height: 350px;
+    width:600px;
+}
+.i2{
+    width:50%;
+    float:right;
+    text-align: center;
+}
+#de3{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#h2{
+    width: 100px;
+}
+.cakes{
+    background-color: rgb(255, 255, 255);
+  
+    height: 500px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.imgs{
+    float: left;
+    margin-left: 20px;
+    height: 210px;
+    width: 200px;
+    background-color: rgb(78, 61, 61);
+    color: white;
+
+    
+}
+.imgs:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+#ct{
+    height: 140px;
+    width:180px;
+    padding: 10px;
+}
+.descr{
+    text-align: center;
+    font-size: 23px;
+    
+}
+#cak{
+    margin-left: 70px;
+    margin-top: 40px;
+    
+}
+#look{
+    text-align: center;
+    padding-top: 30px;
+}
+#see{
+    padding:10px;
+    background-color: rgb(94, 57, 57);
+    cursor:pointer;
+    border-radius: 20px;
+    border:none;
+    font-size: 17px;
+    color: white;
+    
+}
+#see:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#bt{
+    float: right;
+    
+    margin-right: 600px;
+    margin-top: 60px;
+}
+
+#why{
+    background-color: rgb(98, 101, 136);
+    color:white;
+    height: 400px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+
+}
+
+#footer{
+    
+    
+    bottom:0;
+    height: 500px;
+    
+    background-color: rgb(255, 255, 255);
+  
+    margin-top: 23px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+   
+    
+
+
+
+#hk{
+    width: 100px;
+}
+
+.fa{
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    
+    
+
+}
+.fa:hover {
+    opacity: 0.7;
+  }
+.fa-facebook{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.fa-youtube{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.fa-whatsapp{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.fa-instagram{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.fa-pinterest{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.fa-paytm{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    
+}
+.fa-phonepay{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    
+}
+.fa-cc-visa{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    
+}
+.fa-cc-mastercard{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+   
+}
+.fa-google{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    
+}
+.u{
+    float:left;
+}
+#im{
+    height: 100px;
+    width:170px;
+    padding:10px;
+    margin-top: 40px;
+}
+#ico{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+table{
+    border-spacing: 50px 0;
+}
+#data{
+    float: right;
+    margin-top: 80px;
+    margin-right: 40px;
+}
+#sbt{
+    padding:10px;
+    font-size: 18px;
+    background-color: darkslategrey;
+    color: white;
+    border-style: none;
+    border-radius: 20px;
+    
+}
+#sbt:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#tst{
+    border-style: none;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid rgb(38, 50, 75);
+    outline: none;
+    width:250px;
+    
+
+}
+#ccc{
+    font-size: 12px;
+    border-spacing: 30px 5px;
+}
+.hide{
+    display:none;
+    position: absolute;
+}
+#Products:hover+.hide{
+    display: block;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0px;
+    border: 0.2px solid black;
+
+}
+
+
